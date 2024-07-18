@@ -9,7 +9,7 @@
     
 <li> Some analysis and statistics</li>
     
-<li> Kmeans, Hierarcial Clustering
+<li> Kmeans, Hierarchial Clustering
     
     
 
