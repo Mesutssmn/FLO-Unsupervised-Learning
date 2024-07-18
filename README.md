@@ -13,7 +13,7 @@
     
     
 
-<h3 align="left"><font color='#300000' size=5%>ABOUT DATA & COMPANY:</font></h3>
+<h3 align="left"><font color='#300000' size=5%>ABOUT COMPANY:</font></h3>
 
 Founded in 1960, FLO is one of the leading companies in the Turkish footwear market. With the vision of leading the footwear sector in Turkey and elevating it to the top ranks in global production, FLO directly employs over 15,000 people and indirectly provides employment to nearly 30,000 people. Today, FLO operates more than 850 stores domestically and internationally across 30 countries, including the CIS, the Middle East, and North Africa.
    
@@ -26,7 +26,7 @@ Founded in 1960, FLO is one of the leading companies in the Turkish footwear mar
 </div>
 
 <div style="border-radius: 40px; border: #5E5772 solid; padding: 12px; background-color: #f601; font-size: 150%; text-align: left;">
-<h3 align="left"><font color='#300000' size=5%>Data Set Story:</font></h3>
+<h3 align="left"><font color='#300000' size=5%>Dataset Story:</font></h3>
 <p>The dataset consists of information derived from the past shopping behaviors of customers who have shopped both online and offline between 2020 and 2021.</p>
 
 <h4 align="left"><font color='#300000' size=5%>Data Description:</font></h4>
